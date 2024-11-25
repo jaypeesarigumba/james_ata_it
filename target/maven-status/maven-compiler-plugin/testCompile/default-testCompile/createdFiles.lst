@@ -1,5 +1,0 @@
-com\example\stepdefinitions\CucumberHooks.class
-com\example\runner\TestRunner.class
-com\example\testbase\webFactory.class
-com\example\stepdefinitions\CommonStepDefinitions.class
-com\example\testbase\webUtils.class
